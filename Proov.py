@@ -1,5 +1,2 @@
 print("Hello World")
-{
 
-
-}
